@@ -1,7 +1,11 @@
 ## Componentes
+
 ![]("https://github.com/aRnAu1012/proyecto-huerto/blob/main/photoboard.jpg")
+
 1- Photoboard.
+
 ![]("https://github.com/aRnAu1012/proyecto-huerto/blob/main/Sensor%20de%20temperatura.jpg")
+
 2- Sensor de temperatura y humedad.
 
 3- Cables
