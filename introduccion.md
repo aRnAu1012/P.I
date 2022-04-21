@@ -1,8 +1,9 @@
 ## Componentes
 []("https://github.com/aRnAu1012/proyecto-huerto/blob/main/photoboard.jpg")
 1- Photoboard.
-
+[]("https://github.com/aRnAu1012/proyecto-huerto/blob/main/Sensor%20de%20temperatura.jpg")
 2- Sensor de temperatura y humedad.
+
 3- Cables
 4- Sensor de humedad con higlometro para clavar en la macete o tierra.
 5- Diodo.
