@@ -11,8 +11,10 @@
 
 
 3- Cables
+![](https://github.com/aRnAu1012/proyecto-huerto/blob/main/cables.jpg)
 
 4- Sensor de humedad con higlometro para clavar en la macete o tierra.
+
 5- Diodo.
 6- Transitores.
 7- 3 Resistencias.
