@@ -20,8 +20,9 @@
 ![](https://github.com/aRnAu1012/proyecto-huerto/blob/main/Diodo.jpg)
 
 ## 6- Transitores.
-
+![](https://github.com/aRnAu1012/proyecto-huerto/blob/main/Transitores.jpeg)
 ## 7- 3 Resistencias.
+![](https://github.com/aRnAu1012/proyecto-huerto/blob/main/resistencias-.jpg)
 
 ## 8- Tubo para conectar la minibomba y llevar hasta la planta.
 
