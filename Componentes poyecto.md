@@ -17,6 +17,7 @@
 ![](https://github.com/aRnAu1012/proyecto-huerto/blob/main/Sensor%20de%20humedad.jpg)
 
 ## 5- Diodo.
+![](https://github.com/aRnAu1012/proyecto-huerto/blob/main/Diodo.jpg)
 
 ## 6- Transitores.
 
